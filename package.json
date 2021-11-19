@@ -1,0 +1,34 @@
+{
+  "name": "leadmanager",
+  "version": "1.0.0",
+  "description": "\"# DjangoReactPractice\" \r \"# DjangoReactLeads\" \r \"# DjangoReactWebApp\" \r \"# DjangoAndReact\" \r \"# DjangoReact\" \r \"# DjangoReact\" \r \"# DjangoReactApp\" \r This is a simple app for reference. Anyone can use it to connect Django and React for their web desires :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoSihDun/DjangoReactApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoSihDun/DjangoReactApp/issues"
+  },
+  "homepage": "https://github.com/PoSihDun/DjangoReactApp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-laoder": "^0.0.1-security",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
